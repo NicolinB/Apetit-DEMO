@@ -1,1 +1,1 @@
-# Apetit-DEMO
+DEMO - https://apetit-demo.vercel.app/
